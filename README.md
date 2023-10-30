@@ -1,10 +1,10 @@
 # <h1>AWS CodeCommit</h1>
 
 <h2>Description</h2>
-Create a code repository using AWS CodeCommit via the Amazon Management Console
-Create a local code repository on the Linux instance using git
-Synchronize a local repository with an AWS CodeCommit repository
-<br />
+
+- <B> Create a code repository using AWS CodeCommit via the Amazon Management Console</B>
+- <B> Create a local code repository on the Linux instance using git</B>
+- <B> Synchronize a local repository with an AWS CodeCommit repository</B>
 
 
 <h2>Languages and Utilities Used</h2>
